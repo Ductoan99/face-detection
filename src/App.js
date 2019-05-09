@@ -9,7 +9,7 @@ import './Particle.css'
 import Clarifai from 'clarifai';
 
 const app = new Clarifai.App({
-    apiKey: '91a7154772724831a8044e64e6a8a1e4'
+    apiKey: 'api key cua ban(your api key )'
 });
 
 const particleOption = {
