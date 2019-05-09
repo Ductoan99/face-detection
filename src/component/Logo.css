@@ -1,0 +1,12 @@
+.Tilt{
+    background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    margin-left: 15px
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+p {
+       font-weight: 400;
+       font-size: 18px;
+}
